@@ -1,0 +1,3 @@
+[submodule "caixa/slides-testes-rss"]
+	path = caixa/slides-testes-rss
+	url = https://github.com/Novatics/slides-testes-rss.git
